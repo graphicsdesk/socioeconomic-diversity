@@ -1,3 +1,9 @@
-# socioeconomic-diversity
+## Data Diary
 
-Link to college scorecard data: https://collegescorecard.ed.gov/data/; Documentation: https://collegescorecard.ed.gov/assets/FullDataDocumentation.pdf
+_Jessica stuff todo_
+
+The `
+
+## Data Sources
+
+* [College scorecard](https://collegescorecard.ed.gov/data) ([documentation](https://collegescorecard.ed.gov/assets/FullDataDocumentation.pdf))
