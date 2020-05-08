@@ -1,8 +1,12 @@
+## Setup
+
+Clone this repository and run `pipenv install`.
+
 ## Data Diary
 
-_Jessica stuff todo_
+`Python/` contains Jessica's analysis.
 
-The `
+`costs/` contains Jason's analysis, which is just exporting data for the leadin and the rest of the story.
 
 ## Data Sources
 
